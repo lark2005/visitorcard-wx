@@ -1,0 +1,17 @@
+{
+  "pages":[
+        "pages/visitor/index",
+    "pages/index/index",
+
+
+     "pages/card/index",
+     "pages/visitorcard/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "参观证报名",
+    "navigationBarTextStyle":"black"
+  }
+}

@@ -1,0 +1,4 @@
+<!--pages/card/index.wxml-->
+<text>pages/card/index.wxml</text>
+
+  <button bindtap='bindVisitorCard'>下一步</button>
